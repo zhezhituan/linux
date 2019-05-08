@@ -1,0 +1,3 @@
+echo $(date)
+set $(date)
+echo month $2

@@ -1,0 +1,3 @@
+x="szy"
+echo '$x a'
+

@@ -1,0 +1,11 @@
+for file in f* 
+do 
+echo $file
+done 
+exit 0
+
+
+
+
+
+
